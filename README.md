@@ -1,1 +1,1 @@
-# chatApp
+# chatApp - using teleparty websockets library
